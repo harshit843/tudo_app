@@ -61,7 +61,7 @@ tudo_app/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/harshit843/tudo_app>
    cd tudo_app
    ```
 
